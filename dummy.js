@@ -6,3 +6,4 @@
 $('.jsSelectedMainEmail').text(postVariable.email);
   return 0;
 })(jQuery, window);
+TEST
